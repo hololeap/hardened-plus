@@ -1,7 +1,4 @@
-.hackport
-.cache
-*.swp
-*~
+.*.swp
 
 # egencache autostuff
 metadata/cache/
